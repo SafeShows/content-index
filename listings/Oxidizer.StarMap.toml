@@ -42,4 +42,4 @@ os = ["windows", "linux", "macos"]
 
 [loader]
 id = "StarMap"
-min = "0.4.6"
+min = "0.5.3"
